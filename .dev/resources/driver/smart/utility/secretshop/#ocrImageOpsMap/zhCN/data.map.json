@@ -1,0 +1,11 @@
+[{"id":"SECRET_SHOP","crop":[66,19,104,28],"threshold":160,"inverse":true}
+
+,{"id":"ITEM1_TEXT","ver":202306181613,"crop":[691,123,119,28],"threshold":170,"inverse":true}
+,{"id":"ITEM2_TEXT","ver":202306181613,"crop":[691,268,119,28],"threshold":160,"inverse":true}
+,{"id":"ITEM3_TEXT","ver":202306181613,"crop":[691,413,119,28],"threshold":160,"inverse":true}
+,{"id":"ITEM4_TEXT","ver":202306181613,"crop":[691,558,119,28],"threshold":160,"inverse":true}
+,{"id":"ITEM5_TEXT","ver":202306181613,"crop":[691,486,119,28],"threshold":160,"inverse":true}
+,{"id":"ITEM6_TEXT","ver":202306181613,"crop":[691,631,119,28],"threshold":160,"inverse":true}
+
+,{"id":"NM_LEFT_UNTIL_REFRESH","ver":202306181613,"crop":[221,578,90,22],"threshold":70,"inverse":true}
+]

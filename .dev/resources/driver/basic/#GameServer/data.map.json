@@ -1,0 +1,8 @@
+[{"id":"Global_official_Asia","ver":202306181612,"region":"Global","packageName":"com.stove.epic7.google","activityName":"kr.supercreative.epic7.AppActivity"}
+,{"id":"Global_official_Europe","ver":202306181612,"region":"Global","packageName":"com.stove.epic7.google","activityName":"kr.supercreative.epic7.AppActivity"}
+,{"id":"Global_official_Global","ver":202306181612,"region":"Global","packageName":"com.stove.epic7.google","activityName":"kr.supercreative.epic7.AppActivity"}
+,{"id":"Global_official_Japan","ver":202306181612,"region":"Global","packageName":"com.stove.epic7.google","activityName":"kr.supercreative.epic7.AppActivity"}
+,{"id":"Global_official_Korea","ver":202306181612,"region":"Global","packageName":"com.stove.epic7.google","activityName":"kr.supercreative.epic7.AppActivity"}
+,{"id":"CN_official_Reinger","ver":202306181612,"region":"CN","packageName":"com.zlongame.cn.epicseven","activityName":"kr.supercreative.epic7.AppActivity"}
+,{"id":"CN_bilibili_Reinger","ver":202306181612,"region":"CN","packageName":"com.zlongame.cn.epicseven.bilibili","activityName":"kr.supercreative.epic7.AppActivity"}
+]

@@ -1,0 +1,34 @@
+{
+  "program": "program.common.smart.device.SmartDevice",
+  "version": 202305202317,
+  "content": [
+    {
+      "name": "capture.impl",
+      "since": 202305202317,
+      "options": ["adb"],
+      "defaults": "adb"
+    }, {
+      "name": "control.impl",
+      "since": 202305202317,
+      "options": ["adb", "minitouch"],
+      "defaults": "minitouch"
+    }, {
+      "raw": "\n"
+    }, {
+      "name": "adbd.address",
+      "since": 202305202317,
+      "options": ["127.0.0.1:5555", "127.0.0.1:7555", "127.0.0.1:62001", "..."],
+      "defaults": "127.0.0.1:5555"
+    }, {
+      "name": "adbd.connection-timeout",
+      "since": 202305202317,
+      "defaults": "7000"
+    }, {
+      "raw": "\n"
+    }, {
+      "name": "minitouch.connection-timeout",
+      "since": 202305202317,
+      "defaults": "7000"
+    }
+  ]
+}

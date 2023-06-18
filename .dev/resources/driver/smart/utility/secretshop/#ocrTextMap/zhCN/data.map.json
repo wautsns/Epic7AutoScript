@@ -1,0 +1,7 @@
+[{"id":"SECRET_SHOP","ver":202306181707,"text":"秘密商店"}
+
+,{"id":"NM_LEFT_UNTIL_REFRESH","ver":202306181707,"text":"还剩((?<minute>\\d+)分|(?<second>\\d+)秒|(?<hour>1)小)"}
+
+,{"id":"COVENANT_BOOKMARKS","ver":202306181707,"text":"圣约书签"}
+,{"id":"MYSTIC_MEDALS","ver":202306181707,"text":"神秘奖牌"}
+]

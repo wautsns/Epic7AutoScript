@@ -1,0 +1,20 @@
+{
+  "program": "program.driver.E7AS",
+  "version": 202305212052,
+  "content": [
+    {
+      "name": "server",
+      "since": 202305212052,
+      "options": [
+        "Global_official_Asia",
+        "Global_official_Europe",
+        "Global_official_Global",
+        "Global_official_Japan",
+        "Global_official_Korea",
+        "CN_official_Reinger",
+        "CN_bilibili_Reinger"
+      ],
+      "defaults": ""
+    }
+  ]
+}

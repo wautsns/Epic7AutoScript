@@ -1,0 +1,10 @@
+### IntelliJ IDEA ###
+/.idea
+*.iml
+
+### maven ###
+/.dev/program/common/target
+/.dev/program/driver/target
+
+### project ###
+/configs

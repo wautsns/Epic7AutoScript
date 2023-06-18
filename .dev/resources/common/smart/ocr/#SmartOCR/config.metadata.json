@@ -1,0 +1,19 @@
+{
+  "program": "program.common.smart.ocr.SmartOCR",
+  "version": 202305202317,
+  "content": [
+    {
+      "name": "ocr.impl",
+      "since": 202305052220,
+      "options": ["tesseract"],
+      "defaults": "tesseract"
+    }, {
+      "raw": "\n"
+    }, {
+      "name": "text.language",
+      "since": 202305052220,
+      "options": ["en", "zhCN"],
+      "defaults": "en"
+    }
+  ]
+}
