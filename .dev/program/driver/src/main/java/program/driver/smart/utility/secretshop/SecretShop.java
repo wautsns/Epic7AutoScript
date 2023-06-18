@@ -200,7 +200,7 @@ public final class SecretShop {
         // *********************************************************************************
 
         public String refreshStatText() {
-            return format("%d, cost: %d", refreshTimes, refreshTimes * 3);
+            return Integer.toString(refreshTimes);
         }
 
         public String covenantBookmarksStatText() {

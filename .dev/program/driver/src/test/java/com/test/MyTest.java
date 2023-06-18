@@ -39,9 +39,14 @@ public class MyTest {
             while (true) {
                 secretShop.stat().incrementRefreshTimes();
                 secretShop.detectAndPurchase();
-                int minute = secretShop.getMinuteLeftUntilRefresh(e7as.device().screenshot()) + 1;
-                for (int i = minute; i > 0; i--) {
-                    Logger.info("wait %d minutes", minute);
+                int minute;
+                do {
+                    minute = secretShop.getMinuteLeftUntilRefresh(e7as.device().screenshot()) + 1;
+                    Logger.info("wait %d minutes...", minute);
+                    Task.sleep(60_000);
+                } while (minute > 5);
+                for (int i = minute - 1; i > 0; i--) {
+                    Logger.info("wait %d minutes...", i);
                     Task.sleep(60_000);
                 }
             }
